@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I’m **Carl Stephen**
 
-<!--
-**xtraordinaryscar/xtraordinaryscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **About Me**
 
-Here are some ideas to get you started:
+🎓 Computer Science student
+🔒 Aspiring Cybersecurity Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projects**
+
+* [Arithmetic Game](https://github.com/xtraordinaryscar/My-First-C-Project)
+* [Student Record Manager](https://github.com/xtraordinaryscar/Student-Record-2)
+* [Music Playlist Manager](https://github.com/xtraordinaryscar/music-playlist)
+* [Replica of OLFU's Website](https://github.com/xtraordinaryscar/Our-Lady-of-Fatima-University)
+
+🛠️ **Tech Stack**
+
+* Languages: `C` · `C++` · `Java` · `Python`
+* Tools: `Git` · `GitHub` · `VS Code`
+* Interests: Cybersecurity · Web Development
+
+🌐 **Connect with me**
+
+* ✉️ Email: carlstephen666@gmail.com
+
